@@ -1,6 +1,6 @@
 # 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮🎭:
  <div align="center" >
- <img width="700" height="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="logo">
+ <img width="700" height="800" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="logo">
   
 </div>
 <h1 align="center">Hello🙏🪷 𝕀 𝔸𝕄 Rahul Sharma💫</h1>
